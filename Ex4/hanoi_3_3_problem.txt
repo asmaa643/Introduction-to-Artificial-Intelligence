@@ -1,0 +1,2 @@
+Initial state: d_2_restsOn_p_0 d_0_restsOn_d_1 d_1_restsOn_d_2 free_d_0 free_p_1 free_p_2 
+Goal state: d_2_restsOn_p_2 d_0_restsOn_d_1 d_1_restsOn_d_2 
